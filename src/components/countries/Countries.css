@@ -1,0 +1,15 @@
+.countries {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.handle-flags {
+    margin-top: 20px;
+}
+
+.handle-flags img {
+    width: 80px;
+    height: 40px;
+    margin-right: 10px;
+
+}
